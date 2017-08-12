@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["app-module.js"],"sourcesContent":["(function () {\n  'use strict';\n\n  /* @ngdoc object\n   * @name piechart\n   * @description\n   *\n   */\n  angular\n    .module('piechart', [\n      'ui.router',\n      'chart.js',\n      'home'\n    ]);\n}());\n"],"file":"app-module.js"}
